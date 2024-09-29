@@ -1,6 +1,5 @@
 //Student Grades Analysis
 
-
 // Here i created an array that holds 8 grades and logging out how many grades there are
 let grades = [85,92,78,63,95,88,72,54,81,67];
 console.log(grades);
